@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, my name is Paulina Burruel
 
 <!--
 **paulinaburruel/paulinaburruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulinaburruel&theme=dark&background=ffffff)](https://git.io/streak-stats)
+
+#### Where to find me
+- [LinkedIn](https://www.linkedin.com/in/paulinaburruel/)
+- [Behance](https://www.behance.net/paulinaburruel)
