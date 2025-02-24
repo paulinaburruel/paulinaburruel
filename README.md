@@ -1,9 +1,11 @@
 ![Image](https://github.com/user-attachments/assets/e0c0bd4c-61f6-4fe2-b820-1dff22c71f39)
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!--
 **paulinaburruel/paulinaburruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -37,7 +39,7 @@ I love exploring ways to enhance the software I work on, ensuring reliability an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paulinaburruel&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinaburruel&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=paulinaburruel&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
