@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 💫  About Me:
 🚀 Aspiring QA Engineer  
-I'm transitioning from **QA call monitoring** to **test automation**, I’m really passionate about **software quality** and always looking for ways to improve things.  
+Currently transitioning into the technology field, I’m really passionate about **software quality** and always looking for ways to improve things.  
 I love exploring ways to enhance the software I work on, ensuring reliability and a seamless user experience.  
 
 💡 Through my training and projects, I’ve gained experience in **manual and automated testing**, and I’m eager to continue learning, improving my skills, and exploring new tools!
