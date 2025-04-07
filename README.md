@@ -20,10 +20,23 @@ Here are some ideas to get you started:
 
 ### 💫  About Me:
 🚀 Aspiring QA Engineer  
-Currently transitioning into the technology field, I’m really passionate about **software quality** and always looking for ways to improve things.  
+I'm currently transitioning into the technology field, I’m passionate about **software quality** and always looking for ways to improve things.  
 I love exploring ways to enhance the software I work on, ensuring reliability and a seamless user experience.  
 
 💡 Through my training and projects, I’ve gained experience in **manual and automated testing**, and I’m eager to continue learning, improving my skills, and exploring new tools!
+
+### 📝 Projects:
+
+-**P1:** [Mapa mental Airbnb](https://github.com/paulinaburruel/paulinaburruel-qa-mapa-mental-airbnb.git) 
+
+-**P1:** [Proyecto Urban Routes](https://github.com/paulinaburruel/qa-project-Urban-Routes-es.git)
+
+-**P1:** [Proyecto Urban Grocers](https://github.com/paulinaburruel/qa-project-Urban-Grocers-app-es.git)
+
+-**P1:** [Nombre](link)
+
+-**P1:** [Nombre](link)
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulinaburruel) 
