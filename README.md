@@ -29,13 +29,13 @@ I love exploring ways to enhance the software I work on, ensuring reliability an
 
 -**P1:** [Mapa mental Airbnb](https://github.com/paulinaburruel/paulinaburruel-qa-mapa-mental-airbnb.git) 
 
--**P1:** [Proyecto Urban Routes](https://github.com/paulinaburruel/qa-project-Urban-Routes-es.git)
+-**P2:** [Proyecto Urban Routes](https://github.com/paulinaburruel/qa-project-Urban-Routes-es.git)
 
--**P1:** [Proyecto Urban Grocers](https://github.com/paulinaburruel/qa-project-Urban-Grocers-app-es.git)
+-**P3:** [Proyecto Urban Grocers](https://github.com/paulinaburruel/qa-project-Urban-Grocers-app-es.git)
 
--**P1:** [Nombre](link)
+-**P4:** [Proyecto Urban Scooter](https://github.com/paulinaburruel/proyecto_urban_scooter.git)
 
--**P1:** [Nombre](link)
+<!-- -**P1:** [Nombre](link) -->
 
 
 ### 🌐 Socials:
