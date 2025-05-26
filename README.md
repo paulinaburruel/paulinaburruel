@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### 💫  About Me:
-🚀 Aspiring QA Engineer  
+🚀 QA Engineer  
 I'm currently transitioning into the technology field, I’m passionate about **software quality** and always looking for ways to improve things.  
 I love exploring ways to enhance the software I work on, ensuring reliability and a seamless user experience.  
 
