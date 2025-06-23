@@ -1,5 +1,6 @@
-![Image](https://github.com/user-attachments/assets/e0c0bd4c-61f6-4fe2-b820-1dff22c71f39)
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<!--![Image](https://github.com/user-attachments/assets/e0c0bd4c-61f6-4fe2-b820-1dff22c71f39)-->
+![Image](https://github.com/paulinaburruel/paulinaburruel/blob/16b07ced9a5a167455d0940f60b07a29f01984dd/img_banner.png)
+<h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!--
 **paulinaburruel/paulinaburruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
